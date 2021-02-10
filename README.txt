@@ -1,6 +1,6 @@
 I present the python library ``Scrapping City Data Toolbox" (SCDT), which uses Foursquare places API (FSAPI) to obtain data of all Foursquare venues in a city.
 
-The notebooks provides examples of usage. 
+The notebooks provide examples of usage. 
 One needs a .geojson files (such as the ones obtained with Nominatim) for the algorithm to work.
 
 Important files:
